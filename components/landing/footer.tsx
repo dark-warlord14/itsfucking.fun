@@ -108,7 +108,7 @@ export function Footer() {
             transition={{ duration: 0.6, delay: 0.3 }}
           >
             <Sparkles className="w-3 h-3" />
-            {new Date().getFullYear()} itsfucking.fun — all rights reserved (or not, who cares)
+            {new Date().getFullYear()} ItsFucking.FUN — all rights reserved (or not, who cares)
             <Sparkles className="w-3 h-3" />
           </motion.p>
         </motion.div>

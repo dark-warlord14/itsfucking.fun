@@ -15,8 +15,8 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'itsfucking.fun | Because the internet should be fun again',
-  description: 'Welcome to itsfucking.fun - where chaos meets creativity. Join the movement to make the internet fun again.',
+  title: 'ItsFucking.FUN | Because the internet should be fun again',
+  description: 'becauze ItsFucking.FUN - where chaos meets creativity. Join the movement to make the internet fun again.',
   generator: 'v0.app',
   icons: {
     icon: [

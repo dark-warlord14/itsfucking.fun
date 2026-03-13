@@ -57,7 +57,7 @@ export function HeroSection() {
         {/* Main headline */}
         <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-bold font-serif tracking-tight mb-6">
           <AnimatedLetters 
-            text="Welcome to" 
+            text="because" 
             className="block text-foreground mb-2"
           />
           <span className="block">
